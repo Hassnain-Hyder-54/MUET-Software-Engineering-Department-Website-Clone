@@ -30,3 +30,4 @@ The site is an independent learning project and is not an official MUET website.
 ## Icon credit
 
 Interface icons are provided by [Lucide](https://lucide.dev/) under the ISC License.
+The complete license text is included in `THIRD_PARTY_NOTICES.md`.
