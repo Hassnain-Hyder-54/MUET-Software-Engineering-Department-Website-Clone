@@ -1,6 +1,6 @@
-# Artificial Intelligence at MUET
+# Softwre Engineering Department at MUET
 
-A responsive, single-page student project about the BS Artificial Intelligence program at Mehran University of Engineering and Technology, Jamshoro.
+A responsive, single-page student project about the B program at Mehran University of Engineering and Technology, Jamshoro.
 
 ## Project files
 
